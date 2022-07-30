@@ -3,8 +3,10 @@
 Everything you need to know to get started with Python before specializing.
 Behind each link is a basic lesson with a list of resources and documentation for learning more.
 
-I recommend using these lessons as a complimentary resource and reference in combination with other free (or low-cost) resources that give you credit for your learning in the form of public XP or certificates.
- 
+I recommend using these lessons as a complimentary resource and reference in combination with other free (or low-cost) resources that give you credit for your learning in the form of public XP or certificates.  Read the resources section below to learn more.
+
+### Introduction to Programming
+If you're new to programming, I recommend you watch this video of [Hal Abelson's Introduction to Computer Science class at MIT](https://www.youtube.com/watch?v=-J_xL4IGhJA). It's a relic containing concepts that are as true today as they were in 2005.
 ### Data Types
 * [Intro to Data Types, Methods & Operators](https://github.com/bigdayai/python_essentials/blob/main/data_and_datatypes/1_python_datatypes.ipynb)
 * [Integer](https://github.com/bigdayai/python_essentials/blob/main/data_and_datatypes/2_python_integer.ipynb)
