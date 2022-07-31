@@ -15,12 +15,12 @@ If you're new to programming, I recommend you watch this video of [Hal Abelson's
 * [Boolean](https://github.com/bigdayai/python_essentials/blob/main/data_and_datatypes/5_python_boolean.ipynb)
 ### Data Collections
 * [Intro to Data Collections](https://github.com/bigdayai/python_essentials/blob/main/data_collections/1_python_data_collections.ipynb)
-* [List](https://github.com/bigdayai/python_essentials/blob/main/data_collections/2_python_lists.ipynb)
-* Tuple
-* Set
-* Dictionary
-* Array
-* DataFrame
+* [Lists](https://github.com/bigdayai/python_essentials/blob/main/data_collections/2_python_lists.ipynb)
+* [Tuples](https://github.com/bigdayai/python_essentials/blob/main/data_collections/3_python_tuples.ipynb)
+* [Sets](https://github.com/bigdayai/python_essentials/blob/main/data_collections/4_python_sets.ipynb)
+* [Dictionaries](https://github.com/bigdayai/python_essentials/blob/main/data_collections/5_python_dictionaries.ipynb)
+* [Arrays](https://github.com/bigdayai/python_essentials/blob/main/data_collections/6_python_arrays.ipynb)
+* [DataFrames](https://github.com/bigdayai/python_essentials/blob/main/data_collections/7_python_dataframes.ipynb)
 ### Variables & Statements
 * Variable
 * Statement
