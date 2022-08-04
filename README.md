@@ -8,7 +8,7 @@ I recommend using these lessons as a complimentary resource and reference in com
 ### Introduction to Programming
 If you're new to programming, I recommend you watch at least the first 10 minutes of this video: [Hal Abelson's Introduction to Computer Science class at MIT](https://www.youtube.com/watch?v=-J_xL4IGhJA). It's a throw back to the 1980's.  Think "Stranger Things" meets Comp Sci. It will give you a great intuition for what programming is all about.
 
-### Data Types, Methods & Operators](https://github.com/bigdayai/python_essentials/blob/main/data_and_datatypes/1_python_datatypes.ipynb)
+### [Data Types, Methods & Operators](https://github.com/bigdayai/python_essentials/blob/main/data_and_datatypes/1_python_datatypes.ipynb)
 * Integer
 * Float
 * String
