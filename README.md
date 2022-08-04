@@ -84,7 +84,7 @@ Datacamp starts free and then you can sign up for a low-cost annual subscription
 And the last resource I'll share is the Python documentation.  The people who build Python also write a user manual that goes into all the details of the language.  I say build in the present tense because the language is being continually updated, so the Python Documentation is the best source of Truth on how the latest version of Python works.  Documentation tends to be more dense and/or esoteric than the resources listed above, but it's always good to have in your backpocket when you're in a bind.
 * [Python Documentation](https://docs.python.org/3/)
 
-#Course Cheat Sheet
+# Course Cheat Sheet
  
  ![alt text](https://github.com/bigdayai/python_essentials/blob/main/python_essentials_visualization.png)
 
